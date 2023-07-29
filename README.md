@@ -21,10 +21,10 @@ _a small adjacency matrix_
 
 
 Where `spy` starts to choke, is for very large matrices, with millions of rows and columns. I was working with large graphs and wanted to
-peek at the structure of the adjacency matrix, but was unable to do so with `spy` out of the box. So I searched online and didn't quite find
-anything about it. So I thought about it and came up with an idea! If I was sitting down with pencil and paper, I would "sketch" a rough
-version of what my matrix looks like. The point isn't 100% accuracy, it's to get a lossy approximation of my extremely large matrix, in a size
-that I can actually visualize. I came up with this:
+peek at the structure of the adjacency matrix, but was unable to do so with `spy` out of the box. I searched online and didn't quite find
+anything about it, so I considered the problem and came up with an idea! If I was sitting down with pencil and paper, I would "sketch" a rough
+version of what my matrix looks like. We can mimic that process in code. The point isn't 100% accuracy, it's to get a lossy compression of our extremely large
+matrix, to a point that we can actually visualize our data. I came up with this:
 
 ## Code
 
