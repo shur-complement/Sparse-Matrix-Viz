@@ -1,6 +1,7 @@
 # Sparse-Matrix-Viz
 
 _Documenting a technique for visualizing large sparse matrices_
+_Date: July 29, 2023_
 
 ![powerlaw_tree](https://github.com/shur-complement/Sparse-Matrix-Viz/assets/139090555/918f5837-691a-41fa-906d-93e86f833e1a)
 <figcaption>A Powerlaw Tree Graph rendered at progressively higher resolutions </figcaption>
