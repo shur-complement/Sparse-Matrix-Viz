@@ -85,4 +85,4 @@ For fun, here are some sample large graphs from the [Stanford SNAP](https://snap
 
 [Astro Physics Collaboration Network](https://snap.stanford.edu/data/ca-AstroPh.html)
 
-It's not a perfect technique, but it lets you eyeball the data.
+It's not a perfect technique, but it lets you eyeball the data. Checkout [./code.py](./code.py) for a runnable demo.
